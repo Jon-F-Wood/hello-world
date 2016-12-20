@@ -1,2 +1,10 @@
 # hello-world
+
 Just going through and testing creating and updating repositories on GitHub
+
+Also, Right now I'm testing out the use of branches to make a long 
+chain of edits to a repository without editing the master project.
+
+After a series of edits, the branch can be committed to the master 
+project which will finalize the long series of changes made the 
+project after these changes have been worked out.
