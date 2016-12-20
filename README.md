@@ -1,7 +1,4 @@
 # hello-world
-
-Just going through and testing creating and updating repositories on GitHub
-
 Also, Right now I'm testing out the use of branches to make a long 
 chain of edits to a repository without editing the master project.
 
