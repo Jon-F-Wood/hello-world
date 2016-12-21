@@ -1,0 +1,256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"Background"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"dateti",
+				"datetime-local"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"term",
+				"Terminology"
+			],
+			[
+				"upper",
+				"upper-roman"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/woodj/Documents/!!!Projects/gitDemo/index.html.txt",
+		"/C/Users/woodj/Desktop/Programing Notes/Mat Milner - HTML Fundamentals Notes.html",
+		"/C/Users/woodj/Desktop/Programing Notes/HTML-CSS references",
+		"/C/Users/woodj/Desktop/Programing Notes/Craig Shoemaker - HTML5 Fundamentals Notes.html",
+		"/C/Users/woodj/Desktop/Programing Notes/Check me Later.html",
+		"/C/Users/woodj/Desktop/Programing Notes/CodeSchool - Front-End Foundations.html",
+		"/C/Users/woodj/Desktop/Sales Site Revamp/Sales Site footer code.html",
+		"/C/Users/woodj/Desktop/Colors",
+		"/C/Users/woodj/Desktop/Websites I'm working on",
+		"/C/Users/woodj/Desktop/AHMI Files/!Sales Site/X-Child/index.php",
+		"/C/Users/woodj/Desktop/AHMI Files/!Sales Site/X Child/Style.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pattern",
+			"search",
+			"type",
+			"def",
+			"div",
+			"section",
+			"<section",
+			"section",
+			"log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
